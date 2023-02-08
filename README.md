@@ -10,8 +10,9 @@ designing digital products for local and global companies (Latam, USA & Europe) 
 * HTML
 * CSS
 * SASS
-* Vanilla JS
+* Javascript
 * Bootstrap
+* Angular
 
 ## About me
 * 🇬🇹 I'm currently based in Guatemala
